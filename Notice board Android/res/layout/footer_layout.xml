@@ -1,0 +1,9 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/FooterBar" >
+	<TextView android:text="JNTUHCEM CSE 2013-17"
+	    	android:layout_width="fill_parent"
+	    	android:layout_height="wrap_content"
+	    	android:textColor="#606060"
+	    	android:gravity="center"
+	    	android:paddingTop="10dip"/>
+</LinearLayout>
